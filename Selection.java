@@ -141,3 +141,6 @@ class Selection{
       JOptionPane.showMessageDialog(null, "The randomResult was " +newRandom+ ". And the result is " +someResult+ ".");
    }
 }
+
+
+//Int input = Integer.parstInt(JOptionPane,showInputDialog(null, "?"));
